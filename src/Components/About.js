@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-
+import { Link } from 'react-router'
 class About extends Component {
   render() {
 
@@ -40,7 +40,7 @@ class About extends Component {
                </div>
                <div className="columns download">
                   <p>
-                     <a href={resumeDownload} className="button"><i className="fa fa-download"></i>Download Resume</a>
+                     <Link href={resumeDownload} target="_blank" className="button"><i className="fa fa-download"></i>Download Resume</Link>
                   </p>
                </div>
             </div>
