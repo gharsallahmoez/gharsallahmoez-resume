@@ -1,0 +1,197 @@
+{
+  "main": {
+    "name":"Moez Gharsallah",
+    "occupation":"WEB , Mobile and Smart Contracts developer",
+    "description":"JEE and Blockchain Trainer, full-stack web development",
+    "full-stack":"efficiency-obsessed,Networking Engineering Student and aspiring web developer.Recat ,Spring and Blockchain Trainer, full-stack web development",
+    "image":"profilepic.jpg",
+    "bio":"I'm a web developer and trainer, a passion for coding, efficiency-obsessed,i often using React js and Spring boot",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "gharsallahmoez@gmail.com",
+    "phone": "+216 28350413",
+    "address":{
+      "street":"Road gabes km7 Touta-sfax",
+      "city":"sfax",
+      "state":"Tunisia",
+      "zip": "3083"
+    },
+    "website": "https://www.moez-gharsallah.ml",
+    "resumedownload":"https://www.moez-gharsallah.ml",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/moezGHL",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/MoezFred2",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"https://plus.google.com/117652615105389511898",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/gharsallahmoez",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/moezgharsallah/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/gharsallahmoez",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"i like working with react as front-end because React can work on the web, your mobile device, your watch, and eventually your hair dryer, fridge, and internet-connected T-shirt",
+    "education":[
+      {
+        "school":"National Engineering School of Gabes",
+        "degree":"Second-year student in networking and communication engineering(Major of promotion)",
+        "graduated":"June 2020",
+        "description":""
+      },
+      {
+        "school":"Preparatory cycle",
+        "degree":"Preparatory physics and chemistry degree at science university of sfax",
+        "graduated":"June 2017",
+        "description":""
+      },
+      {
+        "school":"Baccalaureate degree",
+        "degree":"Tunisian baccalaureate degree in computer science",
+        "graduated":"June 2011",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Kaizen Training center",
+        "title":"web and blockchain trainer",
+        "years":"November 2018 - Present",
+        "description":"i make web(JEE,Spring,React) and Blockchain courses for students"
+      },
+      {
+        "company":"Inscrypt",
+        "title":"Blockchain Developer",
+        "years":"August 2018 - January 2019",
+        "description":"Blockchain developer at Inscrypt:Create cryptocurrencies wallet for Bitcoin,Litcoin and Ethereum using nodejs, angular 6 and MongoDB"
+      },
+      {
+        "company":"Allohash",
+        "title":"technical project chef and Smart Contract Developer",
+        "years":"january 2018",
+        "description":"AlloHash is the Unique revolutionary platform where anyone from all over the world can exchange, trade or send Cryptocurrency WITHOUT being connected to the Internet! The AlloHash platform is designed on the Ethereum based blockchain using smart contract technology to significantly improve efficiency of SMS services."
+      },
+      {
+        "company":"coingen",
+        "title":"Founder of coingen",
+        "years":"March 2018",
+        "description":"coingen is a website that allow people to create they own cryptocurrenry"
+      }
+    ],
+    "skills":[
+      {
+        "name":"ReactJs,Redux",
+        "level":"90%"
+      },
+      {
+        "name":"Spring",
+        "level":"90%"
+      },
+   
+      {
+        "name":"React Native",
+        "level":"80%"
+      },
+      {
+        "name":"JS",
+        "level":"90%"
+      },
+      {
+        "name":"Angular 6",
+        "level":"70%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"MySQL",
+        "level":"90%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"70%"
+      },
+      {
+        "name":"ionic",
+        "level":"50%"
+      },
+      {
+        "name":"C#",
+        "level":"70%"
+      },
+      {
+        "name":"Ethereum(Solidity,Truffle,Geth,web3)",
+        "level":"80%"
+      },
+      {
+        "name":"Git",
+        "level":"90%"
+      },
+      {
+        "name":"Photoshop, illustrator",
+        "level":"60%"
+      },
+      {
+        "name":"Network analysis (wireshark)",
+        "level":"80%"
+      }
+      
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Coingen website",
+        "category":"coingen is an ICO token sale",
+        "image":"coingen.png",
+        "url":"https://www.coingen.ml"
+      },
+      {
+        "title":"hk-gmbh",
+        "category":"Website of a German cleaning company",
+        "image":"hk-gmbh.png",
+        "url":"https://www.hk-gmbh.ga"
+      },
+      {
+        "title":"Resum",
+        "category":"A React based resume website",
+        "image":"moez-gharsallah.png",
+        "url":"https://www.moez-gharsallah.ml"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"I have had the opportunity to work with Moez on multiple occasions which has always been a pleasure. He is driven and motivated with a consistently positive attitude. Moez excels at communicating with others and is always willing to work hard until he solves the problem at hand.\n\n",
+        "user":"Ameni Hkima - Kaizen Founder"
+      }
+    ]
+  }
+}
