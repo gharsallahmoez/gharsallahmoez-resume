@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import { Link } from 'react-router'
 class About extends Component {
   render() {
 
@@ -40,7 +39,8 @@ class About extends Component {
                </div>
                <div className="columns download">
                   <p>
-                     <a onClick={()=> window.open(`${resumeDownload}`, "_blank")} className="button"><i className="fa fa-download"></i>Download Resume</a>
+                     <a target="_blank"   href="https://drive.google.com/file/d/1ht_fe6uXSyzKemYhuMZmKgTKNuoZDR5f/view"
+            rel="noopener noreferrer" className="button"><i className="fa fa-download"></i>Download Resume</a>
                   </p>
                </div>
             </div>

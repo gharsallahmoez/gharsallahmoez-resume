@@ -5,8 +5,8 @@
     "description":"JEE and Blockchain Trainer, full-stack web development",
     "full-stack":"efficiency-obsessed,Networking Engineering Student and aspiring web developer.Recat ,Spring and Blockchain Trainer, full-stack web development",
     "image":"profilepic.jpg",
-    "bio":"I'm a web developer and trainer, a passion for coding, efficiency-obsessed,i often using React js and Spring boot",
-    "contactmessage":"Contact me.",
+    "bio":"I'm a web developer, a trainer and i often use React JS and Spring boot. I'm efficiency obsessed, have years of experience that bodes well for my work but above all i have a passion for coding",
+    "contactmessage":"Didn't find what you need? I'm here to help and answer questions you might have",
     "email": "gharsallahmoez@gmail.com",
     "phone": "+216 28350413",
     "address":{
@@ -56,17 +56,17 @@
     ]
   },
   "resume":{
-    "skillmessage":"i like working with react as front-end because React can work on the web, your mobile device, your watch, and eventually your hair dryer, fridge, and internet-connected T-shirt",
+    "skillmessage":"i chose to work with React as front-end because you can use it with web development, mobile devices, watches and eventually your hair dryer, fridge, and even internet-connected T-shirt",
     "education":[
       {
         "school":"National Engineering School of Gabes",
-        "degree":"Second-year student in networking and communication engineering(Major of promotion)",
+        "degree":"Network and communication engineering (class of 2020).",
         "graduated":"June 2020",
         "description":""
       },
       {
-        "school":"Preparatory cycle",
-        "degree":"Preparatory physics and chemistry degree at science university of sfax",
+        "school":"Preparatory cycle: Faculty of science of Sfax",
+        "degree":"Degree in physics/chemistry",
         "graduated":"June 2017",
         "description":""
       },
@@ -82,25 +82,25 @@
         "company":"Kaizen Training center",
         "title":"web and blockchain trainer",
         "years":"November 2018 - Present",
-        "description":"i make web(JEE,Spring,React) and Blockchain courses for students"
+        "description":"I offer courses in Web(JEE, Spring and React) as well as Blockchain and Smart Contracts"
       },
       {
         "company":"Inscrypt",
         "title":"Blockchain Developer",
         "years":"August 2018 - January 2019",
-        "description":"Blockchain developer at Inscrypt:Create cryptocurrencies wallet for Bitcoin,Litcoin and Ethereum using nodejs, angular 6 and MongoDB"
+        "description":"cryptocurrencies wallet for Bitcoin,Litcoin and Ethereum using nodejs, angular 6 and MongoDB"
       },
       {
         "company":"Allohash",
         "title":"technical project chef and Smart Contract Developer",
         "years":"january 2018",
-        "description":"AlloHash is the Unique revolutionary platform where anyone from all over the world can exchange, trade or send Cryptocurrency WITHOUT being connected to the Internet! The AlloHash platform is designed on the Ethereum based blockchain using smart contract technology to significantly improve efficiency of SMS services."
+        "description":"AlloHash is a platform where anyone from all over the world can exchange, trade or send Cryptocurrency WITHOUT being connected to the Internet."
       },
       {
-        "company":"coingen",
+        "company":"Coingen",
         "title":"Founder of coingen",
         "years":"March 2018",
-        "description":"coingen is a website that allow people to create they own cryptocurrenry"
+        "description":"coingen is a website that allows people to create they own cryptocurrenry"
       }
     ],
     "skills":[
