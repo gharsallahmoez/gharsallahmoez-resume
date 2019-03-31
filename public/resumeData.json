@@ -103,6 +103,32 @@
         "description":"coingen is a website that allows people to create they own cryptocurrenry"
       }
     ],
+    "certif":[
+      {
+        "company":"Microsoft MTA Database Fundamentals",
+        "title":"Certified 2018",
+        "years":"",
+        "description":""
+      },
+      {
+        "company":"Microsoft MTA HTML5 Application Development Fundamentals",
+        "title":"Certified 2018",
+        "years":"",
+        "description":""
+      },
+      {
+        "company":"Microsoft MTA Software Development Fundamentals",
+        "title":"Certified 2018",
+        "years":"",
+        "description":""
+      },
+      {
+        "company":"Angular and Spring boot certification",
+        "title":"Certified 2018",
+        "years":"",
+        "description":""
+      }
+    ],
     "skills":[
       {
         "name":"ReactJs,Redux",
@@ -151,7 +177,7 @@
       },
       {
         "name":"Git",
-        "level":"90%"
+        "level":"97%"
       },
       {
         "name":"Photoshop, illustrator",
@@ -167,22 +193,30 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Coingen website",
-        "category":"coingen is an ICO token sale",
-        "image":"coingen.png",
-        "url":"https://www.coingen.ml"
+        "title":"Resum",
+        "category":"A React based resume website",
+        "image":"moez-gharsallah.png",
+        "url":"https://www.moez-gharsallah.tk"
       },
+     
       {
         "title":"hk-gmbh",
         "category":"Website of a German cleaning company",
         "image":"hk-gmbh.png",
         "url":"https://www.hk-gmbh.ga"
       },
+  
       {
-        "title":"Resum",
-        "category":"A React based resume website",
-        "image":"moez-gharsallah.png",
-        "url":"https://www.moez-gharsallah.ml"
+        "title":"Rosetta Shoes",
+        "category":"Rosetta Shoes website (React+Spring)",
+        "image":"rosetta.png",
+        "url":"https://rosetta-shoes.tk/dashboard"
+      },
+      {
+        "title":"Coingen website",
+        "category":"coingen is an ICO token sale",
+        "image":"coingen.png",
+        "url":"https://www.coingen.ml"
       }
     ]
   },
